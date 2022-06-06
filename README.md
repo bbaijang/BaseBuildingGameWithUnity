@@ -13,3 +13,8 @@ https://www.youtube.com/watch?v=_lQw3YA7Jok&list=PLbghT7MmckI4_VM5q3va043FgAwRim
 그래픽 타일셋은 Dawnlike 타일셋을 활용했습니다.
 
 https://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181
+
+
+![장백순_1](https://user-images.githubusercontent.com/9414463/172173210-5bd9b774-0a8f-47bb-86f3-6e6e432f0534.jpg)
+![181019-장백순](https://user-images.githubusercontent.com/9414463/172173214-4e16be3f-aca8-4784-9177-0a6b64474a18.jpg)
+![장백순_여권사진](https://user-images.githubusercontent.com/9414463/172173216-eb8f0e80-6c74-41d6-b310-c761ff0f76ae.jpg)
